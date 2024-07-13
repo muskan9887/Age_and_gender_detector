@@ -20,5 +20,7 @@
 
 ### Sample Outputs:
 #### Sample output 1:
-![Sample Output 1] ()
+![Sample Output 1] (https://github.com/muskan9887/Age_and_gender_detector/blob/main/Output_Image_1.PNG)
+![Sample Output 2]()
+![]Sample Output 3]()
 
